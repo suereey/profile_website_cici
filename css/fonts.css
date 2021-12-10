@@ -1,6 +1,6 @@
 /* @font-face*/
 
 @font-face {
-    font-family: "roboto";
+    font-family: "roboto" "Sans Serif" ;
     src: '../fonts/roboto/roboto-Black.ttf';
 }
