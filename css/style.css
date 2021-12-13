@@ -2,11 +2,16 @@
 /*import fonts from fonts.css file*/
 @import url(/css/fonts.css);
 
+
 /*import css variables*/
 @import url(/css/variables.css);
 
 /*import global styling*/
-@import url(/css/global.css);
+/*@import url(/css/global.css);*/
+@import url(https://fonts.googleapis.com/css?family=Roboto&display=swap)
+
+
+
 
 /*start navigation*/
 .header_area .main-menu .navbar .container{
