@@ -18,7 +18,7 @@
     padding-top: 0.5
     rem;
     padding-bottom: 0;
-    font-family: var(--roboto);
+    font-family: var(--readexpro);
 
 }
 
@@ -98,7 +98,7 @@
 /* Project Area */ 
 .site-main .project-area{
     padding: 4rem 0;
-    font-family: var(--roboto);
+    font-family: var(--readexpro);
 }
 
 .site-main .project-area .project-title h1{
@@ -108,7 +108,7 @@
     
 }
 .site-main .project-area .grid .our-project > .title h2{
-    font: normal 700 25px/12px var(--roboto);
+    font: normal 700 25px/12px var(--readexpro);
 }
 
 .site-main .project-area .grid .our-project .img a:hover img{
@@ -122,7 +122,7 @@
     background: url(../img/subscribe-bg.png) no-repeat;
     padding: 5rem 0;
     margin: 3rem auto;
-    font-family: var(--roboto);
+    font-family: var(--readexpro);
 }
 
 .site-main .subscribe-us-area .subscribe .subscribe-title h2{
@@ -153,7 +153,7 @@
 /* Skills Area */ 
 .site-main .skills-area .skills{
     padding: 4rem 0;
-    font-family: var(--roboto);
+    font-family: var(--readexpro);
 }
 
 .site-main .skills-area .skills-title h2{
@@ -171,7 +171,7 @@
 footer.footer-area{
     padding: 5rem 0;
     background: url(../img/footer-bg.png) no-repeat;
-    font: var(--roboto);
+    font: var(--readexpro);
 }
 
 footer.footer-area .social h3{
